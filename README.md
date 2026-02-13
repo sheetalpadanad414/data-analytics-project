@@ -42,9 +42,26 @@ This focuses on practical implementation of:
 - Description:
   - Build predictive models using machine learning algorithms.
   - Perform data preprocessing, training, and evaluation.
-- Status: In Progress / Pending
 
----
+Objective:
+To build a machine learning classification model using Iris dataset.
+
+Steps Performed:
+1. Imported libraries
+2. Loaded dataset
+3. Feature selection
+4. Train-test split
+5. Model training using Random Forest
+6. Model evaluation
+7. Model saved
+
+Tools Used:
+- Python
+- Scikit-learn
+- Pandas
+- Matplotlib
+- VS Code
+
 
 ### ⏳ Task 3: Data Analysis & Visualization
 - Description:
