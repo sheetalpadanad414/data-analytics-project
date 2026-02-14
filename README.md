@@ -67,9 +67,28 @@ Tools Used:
 - Description:
   - Analyze datasets and visualize insights using charts and graphs.
   - Use libraries like Matplotlib and Seaborn.
-- Status: Pending
 
----
+## 📂 Dataset
+Titanic Dataset (titanic.csv)
+
+## 🛠 Technologies Used
+- Python
+- Pandas
+- Matplotlib
+- Streamlit
+
+## 🚀 Features
+- Dataset preview
+- Survival count visualization
+- Survival chart
+- Gender-wise survival analysis
+
+# ▶ How to Run
+1. Navigate to folder:
+2.cd TASK 3
+3.Run the app
+4.streamlit run app.py (Open browser link provided by Streamlit.)
+
 
 ### ⏳ Task 4: Final Project / Advanced Data Analysis
 - Description:
