@@ -91,11 +91,27 @@ Titanic Dataset (titanic.csv)
 
 
 ### ⏳ Task 4: Final Project / Advanced Data Analysis
-- Description:
-  - Apply learned concepts to a comprehensive data analysis project.
-  - Combine data processing, visualization, and prediction.
-- Status: Pending
+Objective:
+Perform sentiment analysis on textual data using Natural Language Processing techniques.
 
----
+Description:
+In this task, a sentiment analysis model was built to classify text into Positive or Negative sentiment.
 
-## Repository Structure
+Steps Performed:
+1. Created textual dataset
+2. Performed text preprocessing (lowercasing, removing stopwords, cleaning)
+3. Converted text into numerical features using TF-IDF
+4. Split data into training and testing sets
+5. Trained Logistic Regression model
+6. Evaluated model using Accuracy and Confusion Matrix
+
+Technologies Used:
+- Python
+- Pandas
+- NLTK
+- Scikit-learn
+- Matplotlib
+
+Outcome:
+The model successfully classified text sentiment with good accuracy.
+
